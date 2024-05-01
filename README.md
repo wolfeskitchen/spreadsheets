@@ -1,0 +1,1 @@
+These are files used to take monthly inventory on the store room and various outlets. Their main function is to translate physical inventory into numbers that could be understood by our procurement system. Another function was to help eliminate human error by automating much of the math involved. 
